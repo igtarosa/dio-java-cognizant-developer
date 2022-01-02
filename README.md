@@ -1,9 +1,9 @@
-<h1> Bootcamp DIO Java Cognizant Developer</h1>
-<p>Conteúdo estudado no Bootcamp. Repositório para atividades realizadas no Bootcamp</p>
+# Bootcamp DIO Java Cognizant Developer
+Conteúdo estudado no Bootcamp. Repositório para atividades realizadas no Bootcamp
 [Bootcamp DIO](https://web.dio.me/track/cognizant-java-developer)
 
 
-<h2> Ementa </h2>
+## Ementa
 - [x] Boas Vindas ao Bootcamp Cognizant Java Developer
 - [x] Mentoria 1: Aula Inaugural - Bootcamp Cognizant
 - [x] Lógica de Programação Essencial
