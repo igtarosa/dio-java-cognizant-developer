@@ -33,14 +33,14 @@ Conteúdo estudado no Bootcamp. Repositório para atividades realizadas no Bootc
 - [x] Introdução a Qualidade de Software
 - [x] Aprenda a aplicar testes com Java
 - [x] Desafio Java - Cognizant Developer
-- [ ] Criando um Banco Digital com Java e Orientação a Objetos
+- [x] Criando um Banco Digital com Java e Orientação a Objetos
 - [x] SQL SERVER - Criando suas primeiras consultas
 - [x] Modelando um banco de dados na prática com SQL SERVER
-- [ ] SQL Server: Boas práticas em bancos relacionais
+- [x] SQL Server: Boas práticas em bancos relacionais
 - [x] Introdução a APIs e métodos HTTP
 - [x] Introdução ao framework Spring Boot
-- [ ] Simplificando Projetos Java com o Spring Boot
-- [ ] Introducão aos Conceitos de API e Clean Architecture
+- [x] Simplificando Projetos Java com o Spring Boot
+- [x] Introducão aos Conceitos de API e Clean Architecture
 - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 - [ ] Mentoria 4:Consumindo uma API REST. Faça um projeto junto com os Experts da Cognizant 
 - [ ] Criando API Gateways no ambiente Azure Spring Cloud
